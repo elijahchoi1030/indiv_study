@@ -1,0 +1,2 @@
+rootProject.name = "SensingBasic"
+include ':app'
